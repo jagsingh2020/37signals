@@ -1,0 +1,539 @@
+a {
+text-decoration: none;
+}
+
+
+ul#top_nav {
+float: right;
+margin-right: 25px;
+margin-top: 0;
+}
+
+ul#top_nav li {
+list-style: none; 
+display: inline;
+text-align: right;
+padding: 1em 10px 0 0; 
+vertical-align: bottom;
+margin: 5px 5px 0 0;
+}
+
+ul { 
+list-style-type: none; 
+}
+
+* {
+   margin:0;
+   margin-top: 0px;
+   margin-right: 0px;
+   margin-bottom: 0px;
+   margin-left: 0px;
+   padding: 0;
+   padding-top: 0px;
+   padding-right: 0px;
+   padding-bottom: 0px;
+   padding-left: 0px;
+   }
+   
+html {
+	display: block;
+	}
+
+head {
+display: none;
+}
+
+title {
+	display: none;
+	}
+	
+link {
+	display: none;
+	}
+
+script {
+	display: none;
+	}
+
+body {
+	display: block;
+	margin: 8px;
+	margin top: 8px;
+	margin right: 8px;
+	margin bottom: 8px;
+	margin left: 8px
+	}
+
+nav {
+	min-width: 100%;
+	height: 48px;
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+	}
+	
+* {
+margin: 0;
+padding: 0;
+}
+	
+header {
+	clear: both;
+	width: 829px;
+	height: 163px;
+	margin: 0 auto;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	padding: 6px 0; 
+	padding-top: 6px;
+	padding-right: 0px;
+	padding-bottom: 6px;
+	padding-left: 0px;
+	text-align: center;
+	font-family: "CrimsonSemibold", "Times New Roman", Georgia, Serif;
+	}
+	
+.products {
+	text-align: center;
+	height: 288px;
+	padding-bottom: 30px;
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+	}
+	
+section {
+	margin: 30px auto;
+	width 825px;
+	display: block;
+	}
+	 
+	
+hr {
+	background: white url('img/img-hr.png')	no-repeat scroll 50% 50%;
+	background-image: url(http://codifyacademy.com/salespage/img-hr.png);
+	background-size: initial;
+	background-origin: initial;
+	background-clip: initial;
+	background: white;
+	clear: both;
+	border: 0;
+	border-top-color: initial;
+	border-top-style: initial;
+	border-top-width: 0px;
+	border-right-color: initial;
+	border-right-style: initial;
+	border-right-width: 0px;
+	border-bottom-color: initial;
+	border-bottom-style: initial;
+	border-bottom-width: 0px;
+	border-left-color: initial;
+	border-left-style: initial;
+	border-left-width: 0px;
+	color: transparent;
+	height: 12px;
+	}
+	
+.menifesto {
+	margin-top: 0;
+	margin-bottom: 50px;
+	padding-left: 15px;
+	overflow: hidden;
+	overflow-x: hidden;
+	overflow-y: hidden;
+	}
+	
+section {
+	margin: 30px auto;
+	margin-right: auto;
+	width: 825px;
+	display: block;
+	}
+	
+	
+	
+hr {
+	display: block;
+	-webkit-margin-before: 0.5em;
+	-webkit-margin-after: 0.5em;
+	-webkit-margin-start: auto;
+	-webkit-margin-end: auto;
+	}
+	
+.customers {
+	margin-bottom: 50px;
+	}
+
+section {
+margin: 30px auto;
+width: 825px;
+display: block;
+}
+
+.customers h2 {
+	  font-family: "CrimsonSemibold", "Times New Roman", Georgia, serif;
+  color: #232323;
+  font-size: 48px;
+  font-weight: 500;
+  font-style: normal;
+  line-height: 1.1em;
+  letter-spacing: -1px;
+  text-align: center;
+}
+
+.meet {
+	position: absolute;
+	margin-left: -125px;
+	margin-top: -100px;
+	}
+
+.meet a {
+	text-align: left;
+	display: block;
+	width: 143px;
+	height: 104px;
+	background: url(img/'img-customers.png') no-repeat 0 0;
+	
+	}
+	
+a {
+	text-decoration: none;
+	color: #369;
+	}
+.meet p {
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 1.3em;
+  text-align: center;
+  color: #369;
+}
+	
+	.rework {
+	height: 500px;
+	}
+	
+.offerings h2 {
+	font-family: "CrimsonSemibold", "Times New Roman", Georgia, Serif;
+	color: #232323;
+	margin: 30px 0;
+	font-size: 48px;
+	font-weight: 500;
+	font-style: normal;
+	line-height: 1.1em;
+	letter-spacing: -1px;
+	text-align: center;
+	}
+	
+.main-offerings {
+	width: 570px;
+	height: 213px;
+	clear: both;
+	overflow: hidden;
+	overflow-x: hidden;
+	overflow-y: hidden;
+	margin: auto;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+	margin-left: auto;
+	margin-bottom: 20px;
+	}
+	
+div {
+	display: block;
+	}
+	
+.main-offerings a {
+	width: 160px;
+	margin: 5px;
+	margin-top: 5px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	float: left;
+	padding: 0 10px;
+	padding-top: 0px;
+	padding-right: 10px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+	text-decoration: none;
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+	text-align: center;
+	
+	}
+
+.main-offerings h3 {
+	font-size: 21px;
+	margin: 3px 0 0 10px;
+	margin-top: 3px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 10px;
+	color: #222;
+	font-weight: bold;
+	}
+	
+sup {
+	color: #999;
+	font-weight: normal;
+	font-size: 11px;
+	}
+
+.main-offerings h4 {
+	margin: 5px 0; 
+	margin-top: 5px;
+	margin-right: 0px;
+	margin-bottom: 5px;
+	margin-left: 0px;
+	font-size: 14px;
+	color: #C00;
+	}
+
+.main-offerings p {
+	color: #666;
+	font-size: 12px;
+	line-height: 1.4em;
+	margin-top: 0;
+	}
+	
+p {
+
+	display: none;
+	-webkit-margin-before: 1em;
+	-webkit-margin-after: 1em;
+	-webkit-margin-start: 0px;
+	-webkit-margin-end: 0px;
+	}
+	
+.offerings .column {
+	float: left;
+	width: 300px;
+	padding: 0;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	margin-right: 30px;
+	margin-left: 95px;
+	margin-bottom: 30px;
+	text-align: center;
+	}
+	
+.column {
+  width: 380px;
+  float: left;
+  margin-right: 40px;
+  font-family: "CrimsonRoman", "Times New Roman", Georgia, serif;
+  text-align: center;
+  color: #222;
+  font-size: 18px;
+  line-height: 1.5em;
+  }
+	
+.offerings .column-end {
+	float: left;
+	width: 300px;
+	padding: 0;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	margin-right: 0;
+	margin-left: 0;
+	margin-bottom: 30px;
+	text-align: center;
+	}
+	
+.column-end {
+  margin-right: 0px;
+  width: 380px;
+  float: left;
+  font-family: "CrimsonRoman", "Times New Roman", Georgia, serif;
+  text-align: center;
+  color: #222;
+  font-size: 18px;
+  line-height: 1.5em;
+}
+
+section {
+	margin: 30px auto;
+	width: 825px;
+	display: block;
+	}
+
+footer {
+	margin: 30px auto;
+	margin-top: 30px;
+	margin-right: auto;
+	margin-bottom: 30px;
+	margin-left: auto;
+	width: 825px;
+	display: block;
+	text-align: center;
+	line-height: 1.5em;
+	}
+
+.kifi-root.kifi-root.kifi-root.kifi-root {
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	}
+
+.kifi-tile.kifi-tile.kifi-tile {
+	position: fixed;
+	bottom: 0px;
+	right: 0px;
+	left: auto;
+	top: auto;
+	width: 49px;
+	height: 49px;
+	border: solid transparent;
+	border-top-color: transparent;
+	border-top-style: solid;
+	border-top-width: 5px;
+	border-right-color: transparent;
+	border-right-style: solid;
+	border-right-width: 7px;
+	border-bottom-color: transparent;
+	border-bottom-style: solid;
+	border-bottom-width: 8px;
+	border-left-color: transparent;
+	border-left-style: solid;
+	border-left-width: 7px;
+	border-image-source: initial;
+	border-image-slice: initial;
+	border-image-width: initial;
+	border-image-outset: initial;
+	border-image-repeat: initial;
+	box-sizing: content-box;
+	text-align: center;
+	transition: transform 0.12s ease-in-out;
+	transition-property: transform;
+	transition-duration: 0.12s;
+	transition-timing-function: ease-in-out;
+	transition-delay: initial;
+	-webkit-transition: transform 0.12s ease-in-out;
+	-webkit-transition-property: transform;
+	-webkit-transition-duration: 0.12s;
+	-webkit-transition-timing-function: ease-in-out;
+	-webkit-transition-delay: initial;
+	z-index: 999999999991;
+	}
+	
+.kifi-tile-card.kifi-tile-card.kifi-tile-card {
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	border: 3px solid rgba(196, 196, 196, 0.298039);
+	border-image-source: initial;
+	border-image-slice: initial;
+	border-image-width: intial;
+	border-image-outset: initial;
+	border-image-repeat: initial;
+	background: padding-box padding-box rgba(51, 51, 51, 0.4);
+	background image: initial;
+	background-size: initial;
+	background-attachment: initial;
+	background-origin: padding-box;
+	background-clip: padding-box;
+	background-color: rgba(51, 51, 51, 0.4);
+	box-shadow: rgba(0, 0, 0, 0.117647) 0px 0px 1px 1px inset;
+	transition: background-color 0.25s linear;
+	-webkit-transition: background-color 0.25s linear;
+	-webkit-transition-property: background-color;
+	-webkit-transtition-duration: 0.25s;
+	-webkit-transition-timing-function: linear;
+	-webkit-transition-delay: initial;
+	border-radius: 50%;
+	border-top-left-radius: 50%;
+	border-top-right-radius: 50%;
+	border-bottom-right-radius: 50%;
+	border-bottom-left-radius: 50%;
+	}
+	
+.kifi-root.kifi-root.kifi-root * {
+	-webkit-font-smoothing: inherit;
+	-webkit-font-combine: inherit;
+	-webkit-text-orientation: inherit;
+	-webkit-user-modify: inherit;
+	-webkit-writing-mode: inherit;
+	border-collapse: inherit;
+	border-spacing: inherit;
+	-webkit-border-horizontal-spacing: inherit;
+	-webkit-border-vertical-spacing: inherit;
+	caption-side: inherit;
+	color: inherit;
+	cursor: inherit;
+	direction: inherit;
+	empty-cells: inherit;
+	font: inherit;
+	font-family: inherit;
+	font-size: inherit;
+	font-style: inherit;
+	font-variant: inherit;
+	font-weight: inherit;
+	font-stretch: inherit;
+	line-height: inherit;
+	letter-spacing: inherit;
+	list-style: inherit;
+	list-style-type: inherit;
+	list-style-position: inherit;
+	list-style-image: inherit;
+	orphans: inherit;
+	quotes: inherit;
+	tab-size: inherit;
+	text-align: inherit;
+	text-indent: inherit;
+	text-redering: inherit;
+	text-shadow: inherit;
+	text-transform: inherit;
+	visibility: inherit;
+	white-space: inherit;
+	widows: inherit;
+	word-break: inherit;
+	word-spacing: inherit;
+	word-wrap: inherit;
+	writing-mode: inherit;
+	}
+.kifi-tile-card.kifi-tile-card.kifi-tile-card::before {
+	content: '';
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	bottom: 0px;
+	background:url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24….3,0.5-
+	0.3C22,0.5,22.2,0.5,22.4,0.5z M23.8,12H21V4.4h2.8V12z"/></g></svg>')
+	50% 50% / 24px 12px no-repeat padding-box padding-box;
+	}	
+	
+.kifi-tile-dot.kifi-tile-dot.kifi-tile-dot {
+	position: absolute;
+	top: 2px;
+	left: -1px;
+	height: 6px;
+	width: 6px;
+	border-radius: 50%;
+	border-top-left-radius: 50%;
+	border-top-right-radius: 50%;
+	border-bottom-right-radius: 50%;
+	border-bottom-left-radius: 50%;
+	border: 1px solid rgb(204, 36, 19);
+	border-top-color: 1px solid rgb(205, 36, 19);
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: rgb(204, 36, 19);
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: rgb(204, 36, 19);
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-left-color: rgb(204, 36, 19);
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-image-source: initial;
+	border-image-slice: initial;
+	border-image-width: initial;
+	border-image-outset: initial;
+	border-image-repeat: initial;
+	background: rgb(231, 76, 60);
+	}
